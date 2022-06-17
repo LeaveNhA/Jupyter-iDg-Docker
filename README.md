@@ -14,6 +14,6 @@ Build it with `docker build -t sckn/jupyter-dg:latest`.
 
 Run it with `docker run -it --rm -p 8888:8888 sckn/jupyter-dg:latest`.
 
-## Issiues?
+## Issiues?
 
 None, so far? Please inform me about anything. Thanks!
