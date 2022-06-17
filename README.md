@@ -8,7 +8,7 @@ Get this repository.
 
 ### Build it
 
-Build it with `docker run -it --rm -p 8888:8888 sckn/jupyter-dg:latest`.
+Build it with `docker build -t sckn/jupyter-dg:latest`.
 
 ### Run it
 
